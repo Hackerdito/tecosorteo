@@ -1,0 +1,5 @@
+{
+  "name": "Secret Santa 2025",
+  "description": "A festive Secret Santa (Intercambio) application where users register, wait for the group to fill, and reveal their gift recipient with a touch of AI magic.",
+  "requestFramePermissions": []
+}
